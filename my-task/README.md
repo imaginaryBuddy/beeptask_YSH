@@ -2,6 +2,8 @@
 Stack used: 
 - Vue 3 + Vite 
 - JSON Server (to simulate backend)
+- Tailwindcss 
+
 ```
 cd my-task
 npm install json-server
