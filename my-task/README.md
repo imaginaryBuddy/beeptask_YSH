@@ -13,8 +13,9 @@ To start:
 
 ```
 cd my-task
-npm run dev
 npx json-server data/db.json
+npm run dev
+
 
 ```
 
